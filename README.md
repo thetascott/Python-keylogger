@@ -1,4 +1,4 @@
-# Python-keylogger
+# Python Keylogger
 
 **This project is a proof of concept for educational purposes and improvements can be made.**
 
