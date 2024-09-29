@@ -1,6 +1,6 @@
 # Python-keylogger
 
-**This project is a proof of concept and improvements can be made.**
+**This project is a proof of concept for educational purposes and improvements can be made.**
 
 This keylogger saves keystrokes to a text file, saves the client's system information, and saves a screenshot of the desktop every 15 seconds.  The keystroke and system information files are encrypted.  The text files and screenshots are e-mailed at set intervals.  
 
